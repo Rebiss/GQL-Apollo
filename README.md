@@ -17,6 +17,6 @@ A GraphQL service is created by defining types and fields on those types, then p
 
 example, a GraphQL service that tells us who the logged in user is (me) as well as that user's name might look something like this:
 
-# checkout 
+# checkout Stage Branch
 
 ![alt text](https://venturebeat.com/wp-content/uploads/2019/06/4f44eef2-5673-43e5-808c-0e215a3855c9.png?fit=800%2C498&strip=all)
